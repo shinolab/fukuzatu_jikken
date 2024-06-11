@@ -10,3 +10,7 @@
 - Public domein
     - "Hallelujah.mp3"
         - Download from [classix](https://classix.sitefactory.info/)
+
+- [Common Voice](https://commonvoice.mozilla.org/ja) (CC-0)
+    - "common_voice_ja_39589161.mp3"
+    - "common_voice_ja_39589175.mp3"
